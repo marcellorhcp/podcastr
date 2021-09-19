@@ -10,7 +10,11 @@
 
 Este é um projeto desenvolvido durante a **[Next Level Week 5](https://nextlevelweek.com/)** apresentado nos dias 19 a 25 de abril de 2021 pela **[Rocketseat](https://rocketseat.com.br/)**
 
-## Tecnologias
+## 💻 Projeto
+
+O podcastr é um app para reprodução de episódios em áudio do seu podcast favorito.
+
+## ✨ Tecnologias
 
 Foram utilizadas as seguintes tecnologias:
 
@@ -18,15 +22,11 @@ Foram utilizadas as seguintes tecnologias:
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## Projeto
-
-O podcastr é um app para reprodução de episódios em áudio do seu podcast favorito.
-
 ## Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
-## Como executar
+## 🚀 Como executar
 
 - Clone o repositório
 - Instale as dependências com `yarn`
